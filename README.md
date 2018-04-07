@@ -19,7 +19,7 @@ Create keys from [Twitter](https://apps.twitter.com/)
 ## Example Usage
 
 
-python tweets2csv.py -q "cats" -o "tweets.csv" -n 100 -rt False -l en
+    python tweets2csv.py -q "cats" -n 100
 
 ## Default Options
 
